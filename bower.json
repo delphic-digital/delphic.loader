@@ -6,6 +6,11 @@
     "Jeff <jmills@delphicdigital.com>"
   ],
   "description": "JS component loader",
+  "keywords": [
+    "delphic",
+    "javascript",
+    "badass"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
